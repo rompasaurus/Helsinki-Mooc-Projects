@@ -1,0 +1,4 @@
+ohjelmointi:programming
+tietokone:computer
+tietokone:computer
+tietokone:computer
